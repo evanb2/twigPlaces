@@ -1,5 +1,5 @@
 <?php
-    class Places
+    class Place
     {
         private $place;
 
